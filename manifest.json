@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "LukesAdultextension",
+  "version": "1.0",
+  "description": "Extension with a default side panel.",
+  "icons": {
+  "99": "icon-99.png"
+  },
+  "side_panel": {
+    "default_path": "LukesAdultextension.html"
+  },
+  "permissions": ["sidePanel"]
+}
